@@ -1,3 +1,5 @@
+This is just a basic test of Create-React-App, and to check configurations available after 'run eject'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
