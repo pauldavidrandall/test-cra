@@ -19,6 +19,11 @@ class App extends Component {
           >
             Learn React
           </a>
+          <style jsx>{`
+          .App-link {
+            color: red;
+          }
+          `}</style>
         </header>
       </div>
     );
